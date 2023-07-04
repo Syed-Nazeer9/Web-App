@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive sans-serif;
+}
+body{
+    background-color: #6c757d;
+}
+#navbar{
+    background-color: aliceblue;
+}
+a{
+    color: rgb(29, 25, 25);
+}
